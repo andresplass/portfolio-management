@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-management",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "script-portfolio": "ts-node script.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^22.0.0"
+  }
+}
