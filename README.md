@@ -21,6 +21,9 @@ Everything is in /src folder.
 - `script.ts` — a runnable example: builds a portfolio targeting 40% META / 60% AAPL,
   adds some starting (unbalanced) holdings, and prints the rebalance result.
 
+## Disclaimer
+In `Conversación: Portfolio Rebalance` i added my conversation with Claude about portofolio rebalances because i didn't know how it worked. I based my code of the rebalance method on that output :)
+
 ## How to run it
 
 ```bash
